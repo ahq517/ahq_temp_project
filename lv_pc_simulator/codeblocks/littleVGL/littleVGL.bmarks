@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\..\lvgl\src\lv_objx\lv_label.h" open="0" top="0" tabpos="0">
+		<Cursor position="3642" topLine="103" />
+	</File>
+	<File name="..\..\lv_examples\lv_apps\test\test.h" open="0" top="0" tabpos="0">
+		<Cursor position="312" topLine="0" />
+	</File>
+	<File name="..\..\lv_drivers\display\fbdev.c" open="0" top="0" tabpos="0">
+		<Cursor position="412" topLine="78" />
+	</File>
+	<File name="..\..\lvgl\src\lv_core\lv_disp.h" open="0" top="0" tabpos="0">
+		<Cursor position="3135" topLine="107" />
+	</File>
+	<File name="..\..\lv_examples\lv_apps\test\test.c" open="1" top="1" tabpos="2">
+		<Cursor position="462" topLine="9" />
+		<BrowseMarks positions="320" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="..\..\lvgl\src\lv_core\lv_obj.h" open="0" top="0" tabpos="0">
+		<Cursor position="13032" topLine="378" />
+	</File>
+	<File name="..\..\main.c" open="1" top="0" tabpos="1">
+		<Cursor position="1575" topLine="68" />
+	</File>
+</BrowseTracker_layout_file>
